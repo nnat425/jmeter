@@ -1,0 +1,90 @@
+2017/01/22 21:12:25 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Loading user properties from: D:\LT\jmeter3.1\apache-jmeter-3.1\bin\user.properties 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Loading system properties from: D:\LT\jmeter3.1\apache-jmeter-3.1\bin\system.properties 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Version 3.1 r1770033 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: java.version=1.8.0_74 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: os.name=Windows 7 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: os.version=6.1 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Max memory     =523763712 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Available Processors =4 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: JMeterHome=D:\LT\jmeter3.1\apache-jmeter-3.1 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: user.dir  =D:\LT\jmeter3.1\apache-jmeter-3.1\lib\ext 
+2017/01/22 21:12:25 INFO  - jmeter.JMeter: PWD       =D:\LT\jmeter3.1\apache-jmeter-3.1\lib\ext 
+2017/01/22 21:12:26 INFO  - jmeter.JMeter: IP: 10.110.10.3 Name: QA-HMANSOOR FullName: QA-HMANSOOR.aspire-services.org 
+2017/01/22 21:12:26 INFO  - jmeter.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'D:\LT\lt_signup\111' 
+2017/01/22 21:12:26 INFO  - jmeter.services.FileServer: Default base='D:\LT\jmeter3.1\apache-jmeter-3.1\lib\ext' 
+2017/01/22 21:12:26 INFO  - jmeter.services.FileServer: Set new base='D:\LT\lt_signup' 
+2017/01/22 21:12:26 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/01/22 21:12:26 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/01/22 21:12:26 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
+2017/01/22 21:12:26 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/01/22 21:12:26 INFO  - jmeter.save.SaveService: Loading file: D:\LT\lt_signup\WDS_US1.jmx 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: false Allow variable: true Save: true Prefix: COOKIE_ 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/01/22 21:12:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/01/22 21:12:26 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2017/01/22 21:12:26 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/01/22 21:12:26 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/01/22 21:12:26 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/01/22 21:12:26 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/01/22 21:12:26 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2017/01/22 21:12:26 INFO  - jmeter.report.dashboard.ReportGenerator: ReportGenerator will use for Parsing the separator:',' 
+2017/01/22 21:12:26 INFO  - jmeter.report.dashboard.ReportGenerator: Will generate report at end of test from  results file:D:\LT\lt_signup\test121.jtl 
+2017/01/22 21:12:26 INFO  - jmeter.report.dashboard.ReportGenerator: Reading report generator properties from:D:\LT\jmeter3.1\apache-jmeter-3.1\bin\reportgenerator.properties 
+2017/01/22 21:12:26 INFO  - jmeter.report.dashboard.ReportGenerator: Merging with JMeter properties 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.temp_dir" not found, using default value "temp" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.sample_filter" not found, using default value "null" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.report_title" not found, using default value "null" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.start_date" not found, using default value "null" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.end_date" not found, using default value "null" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.date_format" not found, using default value "null" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Will use date range start date: null, end date: null 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.exporter.html.filters_only_sample_series" not found, using default value "true" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.exporter.html.series_filter" not found, using default value "" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.report.config.ReportGeneratorConfiguration: Property "jmeter.reportgenerator.exporter.html.show_controllers_only" not found, using default value "false" instead. 
+2017/01/22 21:12:26 INFO  - jmeter.engine.DistributedRunner: Configuring remote engine: 10.110.10.15 
+2017/01/22 21:12:27 INFO  - jmeter.engine.DistributedRunner: Starting remote engines 
+2017/01/22 21:12:27 INFO  - jmeter.engine.DistributedRunner: Starting the test @ Sun Jan 22 21:12:27 EET 2017 (1485112347085) 
+2017/01/22 21:12:27 INFO  - jmeter.engine.ClientJMeterEngine: running clientengine run method 
+2017/01/22 21:12:27 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/01/22 21:12:27 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/01/22 21:12:27 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/01/22 21:12:27 INFO  - jmeter.samplers.BatchSampleSender: Using batching (client settings) for this run. Thresholds: num=10, time=60000 
+2017/01/22 21:12:28 INFO  - jmeter.samplers.BatchSampleSender: Using batching (client settings) for this run. Thresholds: num=10, time=60000 
+2017/01/22 21:12:28 INFO  - jmeter.samplers.BatchSampleSender: Using batching (client settings) for this run. Thresholds: num=10, time=60000 
+2017/01/22 21:12:28 INFO  - jmeter.engine.ClientJMeterEngine: sent test to 10.110.10.15 basedir='.' 
+2017/01/22 21:12:28 INFO  - jmeter.engine.ClientJMeterEngine: Sending properties {} 
+2017/01/22 21:12:28 INFO  - jmeter.engine.ClientJMeterEngine: sent run command to 10.110.10.15 
+2017/01/22 21:12:28 INFO  - jmeter.engine.DistributedRunner: Remote engines have been started 
+2017/01/22 21:12:28 INFO  - jmeter.visualizers.backend.BackendListener: Backend Listener:Starting worker with class:class rocks.nt.apm.jmeter.JMeterInfluxDBBackendListenerClient and queue capacity:5000 
+2017/01/22 21:12:28 INFO  - jmeter.visualizers.backend.BackendListener: Backend Listener: Started  worker with class:class rocks.nt.apm.jmeter.JMeterInfluxDBBackendListenerClient 
+2017/01/22 21:12:28 INFO  - jmeter.JMeter: Started remote host:  10.110.10.15 (1485112348830) 
+2017/01/22 21:12:35 INFO  - jmeter.reporters.Summariser: summary +      1 in 00:00:06 =    0.2/s Avg:   422 Min:   422 Max:   422 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0 
+2017/01/22 21:13:44 INFO  - jmeter.reporters.Summariser: summary +     11 in 00:01:09 =    0.2/s Avg:   647 Min:   218 Max:  1474 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0 
+2017/01/22 21:13:44 INFO  - jmeter.reporters.Summariser: summary =     12 in 00:01:16 =    0.2/s Avg:   628 Min:   218 Max:  1474 Err:     0 (0.00%) 
+2017/01/22 21:14:21 INFO  - jmeter.reporters.Summariser: summary +     10 in 00:00:37 =    0.3/s Avg:   663 Min:   198 Max:  1472 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0 
+2017/01/22 21:14:21 INFO  - jmeter.reporters.Summariser: summary =     22 in 00:01:52 =    0.2/s Avg:   644 Min:   198 Max:  1474 Err:     0 (0.00%) 
+2017/01/22 21:14:53 INFO  - jmeter.reporters.Summariser: summary +     10 in 00:00:33 =    0.3/s Avg:   634 Min:   193 Max:  1055 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0 
+2017/01/22 21:14:53 INFO  - jmeter.reporters.Summariser: summary =     32 in 00:02:25 =    0.2/s Avg:   641 Min:   193 Max:  1474 Err:     0 (0.00%) 
+2017/01/22 21:16:43 INFO  - jmeter.reporters.ResultCollector: Shutdown hook started 
+2017/01/22 21:16:43 INFO  - jmeter.reporters.ResultCollector: Shutdown hook ended 
